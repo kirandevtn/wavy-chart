@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  mongo-chart:
+  - apiVersion: v2
+    created: "2024-01-19T12:26:54.193531+05:30"
+    description: A Helm chart for deploying MongoDB
+    digest: aeae9b8c8338d02152ab404434ff56b070c52c790792e4a1b1ad25c864c488fb
+    name: mongo-chart
+    urls:
+    - mongo-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-19T12:26:54.190281+05:30"
